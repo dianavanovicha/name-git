@@ -5,9 +5,7 @@ int main()
 cout<< "owner berwy";
   cout<< "masteringo";
   cout << "Anna Butujeva";
-
   cout << "Maksims Mihailovs";
-
   cout << "Deniss";
 
 
