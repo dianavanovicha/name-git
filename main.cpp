@@ -5,7 +5,7 @@ int main()
 cout<< "owner berwy";
   cout<< "masteringo";
   cout << "Anna Butujeva";
-  cout << "Diana Vanovica";
+  cout << "  Diana Vanovica";
 
 
 return 0;
