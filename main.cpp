@@ -7,8 +7,7 @@ cout<< "owner berwy";
   cout << "Anna Butujeva";
   cout << "Maksims Mihailovs";
   cout << "Deniss";
-
-
+  cout << "Jekaterina Blinova";
 
 return 0;
 }
