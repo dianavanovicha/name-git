@@ -8,6 +8,6 @@ cout<< "owner berwy";
   cout << "Maksims Mihailovs";
   cout << "Deniss";
   cout << "Jekaterina Blinova";
-
+ cout << "Diana V";
 return 0;
 }
